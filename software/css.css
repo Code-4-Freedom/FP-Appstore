@@ -88,3 +88,33 @@
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.3s;
 }
+
+
+.c4f-card{
+  background-color: white;
+  margin: 15px;
+  column-span: all;
+  border-color: #cccccc;
+  border-width: 1px;
+  border-radius: 5px;
+  width: 60%;
+  color: black;
+}
+
+.c4f-card-home{
+  padding: 15px;
+  background-color: white;
+  margin: 15px;
+  column-span: all;
+  border-color: #cccccc;
+  border-width: 1px;
+  border-radius: 5px;
+  width: 75%;
+  color: black;
+}
+
+.c4f-card-img{
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  width: 100%;
+}
