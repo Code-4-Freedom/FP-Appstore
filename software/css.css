@@ -26,6 +26,29 @@
   transition-duration: 0.3s;
 }
 
+.c4f-search{
+  border-radius: 5px;
+  border-style: none;
+  background-color: #fe0058;
+  color: white;
+  font-weight: bold;
+  font-size: 6mm;
+  width:100%;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.c4f-search:hover{
+  border-radius: 5px;
+  border-style: none;
+  background-color: #e60050;
+  color: white;
+  font-weight: bold;
+  width:100%;
+  font-size: 6mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+
 .c4f-success{
   border-radius: 5px;
   border-style: none;

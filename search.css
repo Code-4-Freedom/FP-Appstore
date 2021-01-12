@@ -1,0 +1,84 @@
+#myInput {
+  position: -webkit-sticky; /* Safari */
+position: sticky;
+top: 0;
+background-color: #1477ff;
+color: #fff;
+
+   /* Full-width */
+  font-size: 20px; /* Increase font-size */
+  padding: 12px 15px 12px 35px; /* Add some padding */
+  border: none; /* Add a grey border */
+  border-radius: 3px;
+  margin-bottom: 12px; /* Add some space below the input */
+box-shadow: 0mm 0mm 1mm black;
+}
+.redbutton{
+  box-shadow: 0mm 0mm 1mm black;
+  border-radius: 3px;
+  font-size: 20px;
+  border: none;
+  background-color: #d63348;
+  color: #fff;
+}
+#myInput:focus{
+  outline: none;
+}
+#myUL {
+  /* Remove default list styling */
+  list-style-type: none;
+  width: 94.5%;
+  padding: 0;
+  margin: 0;
+column-count: 1;
+overflow-x:hidden;
+}
+#myUL li {
+
+  padding: 0px;
+  color: black;
+
+  color: black; /* Add a black text color */
+  display: block; /* Make it into a block element to fill the whole list */
+}
+
+/* #myUL li a {
+
+  border: 1px solid #003777;
+  margin-top: -1px;
+  background-color: #f6f6f6;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+  display: block;
+} */
+#dual{
+  margin: 5mm;
+  column-count: 2;
+}
+
+#tri{
+  margin: 5mm;
+  column-count: 3;
+}
+
+
+
+
+.index{
+  -moz-column-fill: auto; /* Firefox */
+  column-fill: auto;
+  column-count: 1;
+  column-gap: 5px;
+
+}
+.search_bar{
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+}
+.search_bar:focus{
+  outline: none;
+}
