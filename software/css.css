@@ -4,3 +4,87 @@
 
 
 }
+
+.c4f-default{
+  border-radius: 5px;
+  border-style: none;
+  background-color: #fe0058;
+  color: white;
+  font-weight: bold;
+  font-size: 6mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.c4f-default:hover{
+  border-radius: 5px;
+  border-style: none;
+  background-color: #e60050;
+  color: white;
+  font-weight: bold;
+  font-size: 6mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+
+.c4f-success{
+  border-radius: 5px;
+  border-style: none;
+  background-color: #1477ff;
+  color: white;
+  font-weight: bold;
+  font-size: 6mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.c4f-success:hover{
+  border-radius: 5px;
+  border-style: none;
+  background-color: #006aff;
+  color: white;
+  font-weight: bold;
+  font-size: 6mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+
+.c4f-dark{
+  border-radius: 5px;
+  border-style: none;
+  background-color: #243342;
+  color: white;
+  font-weight: bold;
+  font-size: 6mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.c4f-dark:hover{
+  border-radius: 5px;
+  border-style: none;
+  background-color: #18222c;
+  color: white;
+  font-weight: bold;
+  font-size: 6mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+
+.c4f-black{
+  border-radius: 5px;
+  border-style: none;
+  background-color: #1a1a1a;
+  color: white;
+  font-weight: bold;
+  font-size: 6mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
+.c4f-black:hover{
+  border-radius: 5px;
+  border-style: none;
+  background-color: #333333;
+  color: white;
+  font-weight: bold;
+  font-size: 6mm;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.3s;
+}
