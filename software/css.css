@@ -141,3 +141,11 @@
   border-bottom-right-radius: 5px;
   width: 100%;
 }
+
+.c4f-beta{
+  background-color: #ffa31a;
+  border-radius: 5px;
+  border-style: none;
+  color: white;
+  font-weight: lighter;
+}
