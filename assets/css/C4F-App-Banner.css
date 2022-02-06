@@ -1,0 +1,30 @@
+.c4f-alert {
+  border-radius: 5px;
+  border-style: none;
+  background-color: #ffcd22;
+  color: white;
+  font-weight: bold;
+  font-size: 6mm;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.3s;
+}
+
+.c4f-alert:hover {
+  border-radius: 5px;
+  border-style: none;
+  background-color: #ffaa00;
+  color: white;
+  font-weight: bold;
+  font-size: 6mm;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.3s;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: border-box;
+}
+
